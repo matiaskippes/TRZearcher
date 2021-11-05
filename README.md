@@ -38,6 +38,7 @@ _Este proyecto fue realizado por:_
 * **Aguilera Agustín**  - [Aguilera-Agustín](https://github.com/Aguilera-Agustin)   
 * **Noguera Sol**  - [solnoguera](https://github.com/solnoguera)
 * **Tabarovsky Javier**  - [JaviTaba](https://github.com/JaviTaba)
+* **Kippes Matias**  - [matiaskippes](https://github.com/matiaskippes)
 
 "# TRZearcher" 
 "# TRZearcher" 
